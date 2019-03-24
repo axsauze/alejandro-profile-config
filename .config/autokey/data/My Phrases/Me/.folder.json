@@ -1,0 +1,25 @@
+{
+    "type": "folder",
+    "title": "Me",
+    "modes": [],
+    "usageCount": 4,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            "m"
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": true,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
